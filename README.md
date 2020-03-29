@@ -16,14 +16,14 @@ Requirements
 
 Clone the repository using git clone or download it.
 
-To initialize the **Backend** use the commands:
+To initialize the **Backend** uses the commands:
 ```
 cd backend
 npm install
 npm start
 ```
 
-To initialize the **Frontend** use the commands:
+To initialize the **Frontend** uses the commands:
 
 ```
 cd frontend
