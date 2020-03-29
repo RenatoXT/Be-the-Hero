@@ -33,6 +33,8 @@ npm start
 
 After initialize a localhost page will open on the browser, that's the web page used by the NGO's, it's possible to register a NGO and it's incidents here.
 
+![Be the Hero](https://github.com/RenatoXT/Be-the-hero/blob/master/FrontEnd/public/HomeWeb.png)
+
 To open the **Mobile** it's needed to change your IP on mobile/src/services/api.js, and execute the commands:
 
 ```
@@ -43,4 +45,6 @@ expo start
 
 It will open a localhost page with a qr code, it's possible to open the mobile app with the *Expo* app (download it in your phone through Play Store for Android or App Store for IOS) only scanning it.
 
-![Be the Hero](https://github.com/RenatoXT/Be-the-hero/blob/master/FrontEnd/public/HomeWeb.png)
+<img align="left" height='600' src="https://github.com/RenatoXT/Be-the-hero/blob/master/FrontEnd/public/HomeApp.png">
+
+
